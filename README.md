@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-MSPM0G3507先锋使用者
+- MSPM0G3507先锋使用者🔭
+- RUNTIME_ERROR 缔造者😄
+- Vivado Critical Warning 收藏家✨
 
 <!--
 **Sc0ttzzZ/Sc0ttzzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
